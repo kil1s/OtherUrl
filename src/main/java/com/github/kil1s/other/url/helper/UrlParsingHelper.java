@@ -1,6 +1,6 @@
 package com.github.kil1s.other.url.helper;
 
-import com.github.FlorianSteenbuck.other.feature.Features;
+import com.github.kil1s.other.feature.Features;
 import com.github.kil1s.other.url.model.UrlParsingFeature;
 import com.github.kil1s.other.url.model.UrlQuery;
 import com.github.kil1s.other.url.model.UrlQueryState;

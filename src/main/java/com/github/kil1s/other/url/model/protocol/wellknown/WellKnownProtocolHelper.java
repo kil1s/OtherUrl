@@ -3,7 +3,7 @@ package com.github.kil1s.other.url.model.protocol.wellknown;
 import com.github.kil1s.other.url.model.UrlQuery;
 import com.github.kil1s.other.url.model.UrlQueryState;
 import com.github.kil1s.other.url.model.protocol.model.UrlProtocol;
-import com.github.FlorianSteenbuck.other.url.model.protocol.wellknown.model.*;
+import com.github.kil1s.other.url.model.protocol.wellknown.model.*;
 import com.github.kil1s.other.url.model.protocol.wellknown.model.*;
 
 public enum WellKnownProtocolHelper implements UrlQuery {
